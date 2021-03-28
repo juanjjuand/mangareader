@@ -1,0 +1,17 @@
+{
+  "title": "Planet of Jellyfishes",
+  "description": "Planet researcher goes to a planet full of flying jellyfishes and is guided by a native of that planet.",
+  "artist": "NINOMIYA Kano",
+  "author": "NINOMIYA Kano",
+  "cover": "https://lectormango.000webhostapp.com/planetOfJellyfishes_p01.jpg",
+  "chapters": {
+    "1": {
+      "title": "ONE-SHOT",
+      "volume": "0",
+      "groups": {
+        "caradhina": "/proxy/api/imgur/chapter/PVDfKkx/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
